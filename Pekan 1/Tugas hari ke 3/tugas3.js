@@ -1,3 +1,5 @@
+
+
 //Soal Nomor 1
 //gabungkan variabel - variabel tersebut agar menghasilkan output
 //saya Senang belajar JAVASCRIPT
