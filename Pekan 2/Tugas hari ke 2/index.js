@@ -21,8 +21,7 @@ var books = [
 ]
  
 // Tulis code untuk memanggil function readBooks di sini
-var waktu = 10000;
-readBooks(waktu, books[0], function (check) {
+readBooks(10000, books[0], function (check) {
     readBooks(check, books[1], function (check) {
         readBooks(check, books[2], function (check) {
             readBooks(check,books[3],function(check) {       
